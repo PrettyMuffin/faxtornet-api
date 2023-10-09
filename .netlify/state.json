@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Montecchia di Crosara",
+			"country": {
+				"code": "IT",
+				"name": "Italy"
+			},
+			"subdivision": {
+				"code": "34",
+				"name": "Veneto"
+			},
+			"timezone": "Europe/Rome",
+			"latitude": 45.4841,
+			"longitude": 11.258
+		},
+		"timestamp": 1696844851403
+	}
+}
